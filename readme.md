@@ -3,7 +3,7 @@
 ## I am Khushi Pandya
 
 ## 💫 About Me:
-🔭 I’m currently working on <br>MERN stack and building AI models<br><br>👯 I’m looking to collaborate on<br>Any open source projects<br><br>🌱 I’m currently learning<br>Cloud computing,.NET and PHP<br><br>💬 Ask me about<br>Technology related questions like Pyhton, Javascript, Statistics, Machine Learning<br><br>⚡ Fun fact<br>I am also a content writer because I am an overthinker.
+🔭 I’m currently working on <br>Programming languages: HTML, CSS, Python, JavaScript, .NET, PHP also Machine Learning and Artificial Intelligence<br><br>👯 I’m looking to collaborate on<br>Open source projects<br><br>🌱 I’m currently learning<br>Cloud computing and Mobile application development<br><br>💬 Ask me about<br>The latest updates in Software Development or Data Science<br><br>⚡ Fun fact<br>I'm a content writer because I'm an overthinker.
 
 
 ## 🌐 Socials:
