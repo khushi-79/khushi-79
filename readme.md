@@ -3,7 +3,7 @@
 ## I am Khushi Pandya
 
 ## 💫 About Me:
-🔭 I’m currently working on <br>Programming languages: HTML, CSS, Python, JavaScript also Machine Learning and Artificial Intelligence<br><br>👯 I’m looking to collaborate on<br>Open source projects<br><br>🌱 I’m currently learning<br>Cloud computing, Natural Language Processing and Blockchain<br><br>⚡ Fun fact<br>I'm a content writer because I'm an overthinker.
+🔭 I’m currently working on <br>Programming languages: Java, Springboot, HTML, CSS, Python, JavaScript also Machine Learning and Artificial Intelligence<br><br>👯 I’m looking to collaborate on<br>Open source projects<br><br>🌱 I’m currently learning<br>Cloud computing, Natural Language Processing and Blockchain<br><br>⚡ Fun fact<br>I'm a content writer because I'm an overthinker.
 
 
 ## 🌐 Socials:
