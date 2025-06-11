@@ -37,5 +37,5 @@
 
 ---
 ### 📁 Portfolio & Resume:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://khushipandya.vercel.app/))
-[![Resume](https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)]([https://your-resume-link.com](https://drive.google.com/file/d/1TREnspFwqNT-hs5-hUrgUy9Dr28mt7D1/view?usp=sharing))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khushipandya.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://drive.google.com/file/d/1bAof9xWRjAlSfnMl4-NJ1Izc2g61uTeA/view?usp=sharing)
